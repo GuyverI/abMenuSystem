@@ -46,7 +46,8 @@ public string TopMenuId;
 ### Menu
 ```cs
 public const string MENU_EVENT_SHOWN = "MenuEvent.Shown";
-	// - event that is fired when the menu is shown. Check it in a callback for MenuManager.MenuEvent event.
+	// - event that is fired when the menu is shown.
+	// Check it in a callback for MenuManager.MenuEvent event.
 
 public const string MENU_EVENT_HIDDEN = "MenuEvent.Hidden";
 	// - needs a description? really?
